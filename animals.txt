@@ -5,3 +5,6 @@ Dog
 Cat 
 Lizard 
 Lion
+snake 
+bird 
+fish 
